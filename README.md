@@ -6,6 +6,23 @@
 <!--
 **Engse-PNU-CSE/Engse-PNU-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Static Badge](https://img.shields.io/badge/%20-C-A8B9CC?logo=c)
+![Static Badge](https://img.shields.io/badge/%20-C++-00599C?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/%20-C%23-512BD4?logo=csharp)
+![Static Badge](https://img.shields.io/badge/%20-JAVA-2C2255?logo=eclipseide)
+![Static Badge](https://img.shields.io/badge/-Html5-E34F26?logo=html5)
+![Static Badge](https://img.shields.io/badge/-Css3-512BD4?logo=css3)
+![Static Badge](https://img.shields.io/badge/-Java%20Stript-512BD4?logo=csharp)
+![Static Badge](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Static Badge](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Static Badge](https://img.shields.io/badge/-Pytorch-512BD4?logo=pytorch)
+![Static Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![Static Badge](https://img.shields.io/badge/-Unity-000000?logo=unity)
+![Static Badge](https://img.shields.io/badge/-Unreal%20Engin-0E1128?logo=unrealengine)
+![Static Badge](https://img.shields.io/badge/-Visual%20studio-5C2D91?logo=visualstudio)
+![Static Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode)
+![Static Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipseide)
+![Static Badge](https://img.shields.io/badge/-Intelli%20J%20IEDA-000000?logo=intellijidea)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

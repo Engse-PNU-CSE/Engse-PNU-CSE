@@ -3,8 +3,6 @@
 # Hi there 👋
 
 이곳은 저의 소스코드들을 관리하기 위한 페이지 입니다.
-<!--
-**Engse-PNU-CSE/Engse-PNU-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Static Badge](https://img.shields.io/badge/%20-C-A8B9CC?logo=c)
 ![Static Badge](https://img.shields.io/badge/%20-C++-00599C?logo=cplusplus)
@@ -23,6 +21,10 @@
 ![Static Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipseide)
 ![Static Badge](https://img.shields.io/badge/-Intelli%20J%20IEDA-000000?logo=intellijidea)
+<!--
+**Engse-PNU-CSE/Engse-PNU-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

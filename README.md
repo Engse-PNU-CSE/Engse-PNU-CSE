@@ -24,7 +24,7 @@
   ![Static Badge](https://img.shields.io/badge/-React-A8B9CC?logo=react)
   ![Static Badge](https://img.shields.io/badge/-Pytorch-512BD4?logo=pytorch)
   ![Static Badge](https://img.shields.io/badge/-Unity-000000?logo=unity)
-  ![Static Badge](https://img.shields.io/badge/-Unreal%20Engin-0E1128?logo=unrealengine)
+  ![Static Badge](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine)
 
 - Tools
   
